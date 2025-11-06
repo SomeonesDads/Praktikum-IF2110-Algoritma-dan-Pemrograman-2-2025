@@ -8,12 +8,19 @@ Seluruh kode dikerjakan menggunakan bahasa **Haskell** dan **C**, sesuai dengan 
 ## 📂 Struktur Direktori
 
 Prak 1/ → ADT dasar dalam Haskell (Point, Tanggal, Mahasiswa)
+
 Prak 2/ → Rekursi & List processing di Haskell
+
 Prak 3/ → Operasi matriks dan array di Haskell
+
 Prak 4/ → Binary Tree dan operasi rekursif di Haskell
+
 Prak 5/ → Higher-order function & List comprehension di Haskell
+
 Prak 6/ → ADT List Linier (Linked List) dalam C
+
 Prak 7/ → Problem solving dengan stack, recursion, dan kombinatorik (C)
+
 Prak 8/ → Mesin karakter & mesin kata (finite-state machine) dalam C
 
 
