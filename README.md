@@ -50,8 +50,8 @@ ghci NamaFile.hs
 
 C
 
-Gunakan GCC untuk kompilasi:
-```bash
+Gunakan `GCC` untuk kompilasi:
+```
 gcc file1.c file2.c -o program
 ./program
 
@@ -60,6 +60,7 @@ Contoh untuk mesin kata:
 gcc mesinkata.c mesinkarakter.c problem.c -o a
 ./a
 ```
+
 🧪 Topik yang Dipelajari
 
     ADT dan Modularitas
@@ -89,16 +90,16 @@ gcc mesinkata.c mesinkarakter.c problem.c -o a
 💻 Tools yang Digunakan
 
     Visual Studio Code (coding & debugging)
-
+    
     GHC / GHCi untuk Haskell
-
+    
     GCC (MSYS2) untuk C
-
+    
     Git untuk version control
 
 🧔 Author
 
-Someonesdad
+Natanael I Manurung
 Mahasiswa STEI-K ITB, 2025
 
     Fokus pada pemahaman konsep algoritma, struktur data, dan praktik implementasi lintas bahasa (Haskell & C).
