@@ -46,11 +46,12 @@ ghc -o program NamaFile.hs
 Atau langsung lewat GHCi:
 
 ghci NamaFile.hs
+```
 
 C
 
 Gunakan GCC untuk kompilasi:
-
+```bash
 gcc file1.c file2.c -o program
 ./program
 
@@ -58,7 +59,7 @@ Contoh untuk mesin kata:
 
 gcc mesinkata.c mesinkarakter.c problem.c -o a
 ./a
-
+```
 🧪 Topik yang Dipelajari
 
     ADT dan Modularitas
