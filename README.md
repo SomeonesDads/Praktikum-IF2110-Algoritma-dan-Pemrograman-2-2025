@@ -1,11 +1,11 @@
-# 🧠 Praktikum Algoritma dan Pemrograman II
+# Praktikum Algoritma dan Pemrograman II
 
 Repositori ini berisi kumpulan tugas dan latihan praktikum mata kuliah **IF1220 - Algoritma dan Pemrograman II** di **STEI-K ITB**.  
 Seluruh kode dikerjakan menggunakan bahasa **Haskell** dan **C**, sesuai dengan modul dan topik praktikum tiap minggu.
 
 ---
 
-## 📂 Struktur Direktori
+## Struktur Direktori
 
 Prak 1/ → ADT dasar dalam Haskell (Point, Tanggal, Mahasiswa)
 
@@ -26,7 +26,7 @@ Prak 8/ → Mesin karakter & mesin kata (finite-state machine) dalam C
 
 ---
 
-## 🧩 Bahasa Pemrograman
+## Bahasa Pemrograman
 
 | Bahasa | Digunakan untuk | Tools/Compiler |
 |---------|-----------------|----------------|
@@ -35,7 +35,7 @@ Prak 8/ → Mesin karakter & mesin kata (finite-state machine) dalam C
 
 ---
 
-## ⚙️ Cara Menjalankan
+## Cara Menjalankan
 
 ### Haskell
 Pastikan sudah menginstall `ghc`:
@@ -61,7 +61,7 @@ gcc mesinkata.c mesinkarakter.c problem.c -o a
 ./a
 ```
 
-🧪 Topik yang Dipelajari
+Topik yang Dipelajari
 
     ADT dan Modularitas
 
@@ -87,7 +87,7 @@ gcc mesinkata.c mesinkarakter.c problem.c -o a
 
         Algoritma kombinatorik, rekursi lanjutan, dan simulasi stack/queue.
 
-💻 Tools yang Digunakan
+Tools yang Digunakan
 
     Visual Studio Code (coding & debugging)
     
@@ -97,14 +97,14 @@ gcc mesinkata.c mesinkarakter.c problem.c -o a
     
     Git untuk version control
 
-🧔 Author
+Author
 
 Natanael I Manurung
 Mahasiswa STEI-K ITB, 2025
 
     Fokus pada pemahaman konsep algoritma, struktur data, dan praktik implementasi lintas bahasa (Haskell & C).
 
-📜 Catatan
+Catatan
 
     Beberapa file a.exe adalah hasil kompilasi lokal di Windows (tidak disertakan di repo final).
 
