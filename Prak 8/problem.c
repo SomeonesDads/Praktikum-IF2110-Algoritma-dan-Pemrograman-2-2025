@@ -145,7 +145,7 @@ int isPredikat(const Word w) {
     return (s == 3 && EndWord == true);
 }
 
-int main(){
-    printf(cfg_parser() ? "1" : "0");
-    return 0;
-}
+// int main(){
+//     printf(cfg_parser() ? "1" : "0");
+//     return 0;
+// }
